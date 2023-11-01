@@ -1,0 +1,55 @@
+.bg-container {
+  background-color: #e2a139;
+  height: 100vh;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.card-container {
+  background-color: white;
+  margin: 300px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #a35200;
+  font-size: 40px;
+  font-weight: 600px;
+  font-family: 'Roboto';
+}
+.para {
+  color: #334155;
+  font-weight: bold;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+.image-heads {
+  height: 200px;
+  width: 200px;
+  margin: 10px;
+}
+.button {
+  font-weight: bold;
+  color: black;
+  font-family: 'Roboto';
+  margin: 20px;
+}
+.button-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.btn-button {
+  background-color: yellow;
+  color: #a35200;
+  border-radius: 5px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  border-width: 0px;
+  height: 40px;
+  width: 120px;
+}
